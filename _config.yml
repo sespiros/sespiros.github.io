@@ -54,8 +54,6 @@ nav:
       link: "/"
     - name: "Resume"
       link: "resume.pdf"
-    - name: "Webpostings"
-      link: "/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
