@@ -18,21 +18,44 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: sespiros
+email: sespiros@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+        My name is Spyros Seimenis and I am a well-rounded computer *security engineer and researcher* that specializes 
+        in finding and reporting bugs through reverse engineering and source code auditing. I have worked
+        with numerous clients worldwide in various fields like mobile device platforms, IoT and banking and
+        helped them secure their products. Having a software engineering background, I also provide consultation 
+        on best coding practices that promote the writing of more secure code.
 
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+        I hold an MSc in Computer Science from the Computer Engineering and Informatics department of University of Patras.
+        My main areas of research interest there were cryptography, programming languages (topics such as compilers, algorithms 
+        and data structures, parallel processing, software engineering), communication networks, topics on theory of computation 
+        and computer graphics. I did my thesis on penetration testing methodologies, techniques, processes and reporting, covering 
+        the technical and business aspects of a penetration test with the final goal of producing a solid and helpful report.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sespiros.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: sespiros
+github_username:  sespiros
+
+markdown: kramdown
+
+tracking_id: GTM-522R2S
+
+footer: yes
+footer_url: https://sespiros.github.io
+footer_text: "🄯 2020"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+    
+nav:
+    - name: "About"
+      link: "/"
+    - name: "Resume"
+      link: "resume.pdf"
+    - name: "Webpostings"
+      link: "/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
