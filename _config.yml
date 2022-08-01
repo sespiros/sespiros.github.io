@@ -43,7 +43,7 @@ tracking_id: UA-70832716-1
 
 footer: yes
 footer_url: https://sespiros.github.io
-footer_text: "🄯 2020"
+footer_text: "🄯 2022"
 
 sass:
     style: compressed
@@ -52,8 +52,6 @@ sass:
 nav:
     - name: "About"
       link: "/"
-    - name: "Resume"
-      link: "resume.pdf"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
