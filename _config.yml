@@ -48,10 +48,10 @@ footer_text: "🄯 2022"
 sass:
     style: compressed
     sass_dir: _sass
-    
-nav:
-    - name: "About"
-      link: "/"
+
+# nav:
+#     - name: "About"
+#       link: "/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
