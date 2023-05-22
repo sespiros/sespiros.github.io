@@ -39,11 +39,11 @@ github_username:  sespiros
 
 markdown: kramdown
 
-tracking_id: UA-70832716-1
+tracking_id: G-DG5LVB63C5
 
 footer: yes
 footer_url: https://sespiros.github.io
-footer_text: "🄯 2022"
+footer_text: "🄯 2023"
 
 sass:
     style: compressed
