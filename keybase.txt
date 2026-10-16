@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/sespiros
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sespiros.github.io
+  * I am sespiros (https://keybase.io/sespiros) on keybase.
+  * I have a public key with fingerprint 9BAE 0CA8 BD3A 7BE1 F957  BD2A CF7A C2A0 ACF8 AA7C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.8.24"
+        },
+        "key": {
+            "eldest_kid": "0120f7921fb799cb4671eb1f5ee9e83f037101b5cfd68790d43b9e2de2beb3e9f2630a",
+            "fingerprint": "9bae0ca8bd3a7be1f957bd2acf7ac2a0acf8aa7c",
+            "host": "keybase.io",
+            "key_id": "cf7ac2a0acf8aa7c",
+            "kid": "0101e650068c4b5b131854189a8468a113fa58a6ea5027f565fb1b6b58e2c469c1b70a",
+            "uid": "c0c53f1b4edde76bdedaea3c87aee119",
+            "username": "sespiros"
+        },
+        "service": {
+            "hostname": "sespiros.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1448407276,
+    "expire_in": 157680000,
+    "prev": "c8e9d34e6511c2fd359aede71a771fd5e56c307c264c2e3ddfee25791779f516",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFtUntQFVUYvzy8PIIkX1ExcNuMQOmyZ9+LAzpCMANMIaMliHPZs3sWFujey93L
++yUI00hBOc2AiSkoNUWYaToxgelAElhiDF7wn4Jg0mpAkQIxtGkXcaaazl/fnO/3
+nd/jfO/4exi83a6W9rZ2LnaUu337KzS8unN2rgyDNqkEiyrDxDwFWZ16ZRVeR1gU
+lotKoKAis2IzWW0SMueophVMBFaIHKpis2oo3MyZCQqriNDx+jTKk5DqtOQqkt4F
+BC6zPAFkyPK8CCmGBQgCmUaIRxwp4yQLcABpUZYYjuVxiSIhjwgJERBBEvEywZC4
+oBHKijULOewORZeI8VBAuChwUCIFFiIg8zQLJUIQZVYQCQHXCk4QWFEbzLapzn+Z
+wZaVWpbl/Q/+kW4cIIbGcYYTKUhDQAKOpgDHCxzFcAIApCzQnMAggcYJVqYZWoYA
+MpDmECFSDC8CyC7rLnjIg4s0KQNIIUlCLAMlJAlIIEWOFRACgNeBKnKsBK8i1a44
+bKoeqnZbqIhID1Z38h+EOUtxZhfAh67sDpvTJtrytH6202lXo/R5Z4ldHyhC0LLy
+lAUqVklL8+g/vxFoUNGp6I8DiuIonCVYJgJDxRoNsig6gmYZDteOToQKdVMc4iWS
+0mICQCRkiaR5AWn2gMCyQJZoRDMiibMiwVAigUhJkhEiaJYHLMvLNGAw3V2+1YZF
+cZpOIUv3pWRZBWeBA2EVB9yDPA1u3gbjKnd9Tw2+PgGPljd5MsDQcPrWbS9X8/hI
+xfUNxseI1+Z3Ptd6qmUpp3Pav/Jxj7ak/oy5zWNS8Ejay+GDtoXE5J+y/nz+ha/C
+y35udx1scLnZs0/hGX2xmy11XlvAuZOBfp+51hRbk8a4qh+2tZ6pXLc6P74prutO
+d1J3wlmjyw9sTJ7BDnv6Pm3yvZhqvDyyp76l51B+hGl44tiJD3ak7c8Paq4JedMK
+g9viDgYH+f/m07wYH31yj+f0fY/w3VXEpxGvYLW2uPmlbQuR6kvFD+6v8eqePz50
+Ie36se+I2omQnh/Plg5+WLjrjXFHe31MpRRjf3fSPe3FTQVxo9+kLFYtRIXdc/XV
+bW2/U9RfNpmryBXDtSY4Nbvh2Ykc3+5q38wv8qKpuIu/pM5VRbfcGDB4T9ztXdw0
+JKrvS19X750yx+ze8XlCtjH9plsoHAuGf9GmdL8tncbGgqTtcwUdXksT1+YzPk5X
+Vwftu3o77p4xzHTt0rln5uSbV8xrS1rrG4avnB4ysd5bYytLy3uwolvfc0+uu9Q3
+g0fWfNR2PFDLpDsqY7Yx9MH+XR3ToSmtsaORvavIL8//sfatvJDJ9ZxcNy97zHR1
+nChvespvIFM9fOT8E28PZqV5h/5+KBc/mjJuSA1M7y7KTNxeHX25KXLg7j57ee+R
+hMH3QjYKLVNhPqOf5DXeqNnrutCVeMbQv76sJj7ArZ7+Gw==
+=gQ5O
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sespiros
+
+==================================================================
